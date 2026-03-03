@@ -32,7 +32,7 @@ module.exports = {
             /* Training style prompt simulation */
 
             const TRAINING_PROMPT = `
-You are Gemini AI powered by Crysnova.
+You are Gemini AI powered by 𝗖𝗢𝗗𝗘𝗫.
 
 Rules:
 - Reply naturally and directly.
