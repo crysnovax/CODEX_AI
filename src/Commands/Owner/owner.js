@@ -26,7 +26,7 @@ END:VCARD
 
             await sock.sendMessage(m.chat, {
                 contacts: {
-                    displayName: 'CRYSNOVA BOT',
+                    displayName: '𝗖𝗢𝗗𝗘𝗫 BOT',
                     contacts: [{ vcard }]
                 }
             }, { quoted: m });
