@@ -1,4 +1,4 @@
-// © 2026 CRYSNOVA AI V2.0 - All Rights Reserved.
+// © 2026 𝗖𝗢𝗗𝗘𝗫 𝐀𝐈 V2.0 - All Rights Reserved.
 // Auto-loads from user-config.json (created during first setup)
 const fs = require('fs');
 const path = require('path');
@@ -52,35 +52,35 @@ const config = {
     },
 
     message: {
-        owner: "no, this is for owners only by crysnova ☠️",
-        group: "this is for groups only by crysnova ☠️",
-        admin: "this command is for admin only by crysnova ☠️",
-        private: "this is specifically for private chat by crysnova ☠️"
+        owner: "no, this is for owners only by 𝗖𝗢𝗗𝗘𝗫 ☠️",
+        group: "this is for groups only by 𝗖𝗢𝗗𝗘𝗫 ☠️",
+        admin: "this command is for admin only by 𝗖𝗢𝗗𝗘𝗫 ☠️",
+        private: "this is specifically for private chat by 𝗖𝗢𝗗𝗘𝗫 ☠️"
     },
 
     mess: {
-        owner: "This command is only for the bot owner! by crysnova ☠️",
+        owner: "This command is only for the bot owner! by 𝗖𝗢𝗗𝗘𝗫 ☠️",
         done: "Mode changed successfully! ✓𓄄",
         error: "Something went wrong!✘𓄄",
         wait: "Please wait...⚉"
     },
 
     settings: {
-        title: userConfig?.bot?.name || "CRYSN⚉VA AI V2",
-        packname: userConfig?.bot?.name || "CRYSNOVA",
+        title: userConfig?.bot?.name || "𝗖𝗢𝗗𝗘𝗫 𝐀𝐈",
+        packname: userConfig?.bot?.name || "𝗖𝗢𝗗𝗘𝗫",
         prefix: userConfig?.bot?.prefix || ".",
-        description: "Professional WhatsApp Bot - CRYSNOVA AI V2.0",
+        description: "Professional WhatsApp Bot - 𝗖𝗢𝗗𝗘𝗫 𝐀𝐈 V2.0",
         author: "https://github.com/crysnovax/CRYSNOVA_AI",
-        footer: "𝗖𝗥𝗬𝗦𝗡𝗢𝗩𝗔: @crysnovax",
+        footer: "𝗖𝗢𝗗𝗘𝗫: @crysnovax",
 
         ownerJid: userConfig?.owner?.jid ||
                   `${defaultNumber}@s.whatsapp.net`,
 
-        ownerName: userConfig?.owner?.name || "CRYSNOVA"
+        ownerName: userConfig?.owner?.name || "𝗖𝗢𝗗𝗘𝗫"
     },
 
     newsletter: {
-        name: userConfig?.bot?.name || "CRYSNOVA AI V2",
+        name: userConfig?.bot?.name || "𝗖𝗢𝗗𝗘𝗫 𝐀𝐈 V2",
         id: "0@newsletter"
     },
 
@@ -91,8 +91,8 @@ const config = {
     },
 
     sticker: {
-        packname: userConfig?.bot?.name || "CRYSNOVA AI V2",
-        author: "CRYSN⚉VA"
+        packname: userConfig?.bot?.name || "𝗖𝗢𝗗𝗘𝗫 𝐀𝐈 V2",
+        author: "𝗖𝗢𝗗𝗘𝗫"
     }
 };
 
