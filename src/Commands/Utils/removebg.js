@@ -12,23 +12,23 @@ module.exports = {
     execute: async (sock, m, { reply }) => {
 
         if (!m.quoted) {
-            return reply('╭─❍ *CRYSNOVA AI V2.0*\n│ ✘ Reply to an image.\n╰──────────────────');
+            return reply('╭─❍ *𝗖𝗢𝗗𝗘𝗫 AI V2.0*\n│ ✘ Reply to an image.\n╰──────────────────');
         }
 
         const quoted = m.quoted;
         const mtype = quoted.type || quoted.mtype || '';
 
         if (!['imageMessage', 'image'].includes(mtype)) {
-            return reply('╭─❍ *CRYSNOVA AI V2.0*\n│ ✘ Please reply to an image only.\n╰──────────────────');
+            return reply('╭─❍ *𝗖𝗢𝗗𝗘𝗫 AI V2.0*\n│ ✘ Please reply to an image only.\n╰──────────────────');
         }
 
         try {
-            await reply('╭─❍ *CRYSNOVA AI V2.0*\n│ ✪ Removing background...\n╰──────────────────');
+            await reply('╭─❍ *𝗖𝗢𝗗𝗘𝗫 AI V2.0*\n│ ✪ Removing background...\n╰──────────────────');
 
             const buffer = await m.quoted.download();
 
             if (!buffer || buffer.length < 100) {
-                return reply('╭─❍ *CRYSNOVA AI V2.0*\n│ ✘ Failed to download image.\n╰──────────────────');
+                return reply('╭─❍ *𝗖𝗢𝗗𝗘𝗫 AI V2.0*\n│ ✘ Failed to download image.\n╰──────────────────');
             }
 
             const form = new FormData();
@@ -54,12 +54,12 @@ module.exports = {
             await sock.sendMessage(m.key.remoteJid, {
                 image: Buffer.from(response.data),
                 mimetype: 'image/png',
-                caption: `╭─❍ *CRYSNOVA AI V2.0*\n│ ✦ Background removed successfully.\n╰──────────────────`
+                caption: `╭─❍ *𝗖𝗢𝗗𝗘𝗫 AI V2.0*\n│ ✦ Background removed successfully.\n╰──────────────────`
             }, { quoted: m });
 
         } catch (err) {
 
-            let msg = '╭─❍ *CRYSNOVA AI V2.0*\n│ ✘ Failed to remove background.';
+            let msg = '╭─❍ *𝗖𝗢𝗗𝗘𝗫 AI V2.0*\n│ ✘ Failed to remove background.';
 
             if (err.response?.status === 402) {
                 msg += '\n│ ✦ API credits exhausted.';
