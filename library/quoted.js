@@ -1,5 +1,5 @@
 
-// © 2026 CRYSNOVA. All Rights Reserved.
+// © 2026 𝗖𝗢𝗗𝗘𝗫. All Rights Reserved.
 // respect the work, don’t just copy-paste.
 
 const fs = require('fs')
@@ -9,13 +9,13 @@ const fquoted = {
         key: {
             fromMe: false,
             participant: "0@s.whatsapp.net",
-            remoteJid: "2348077528901@s.whatsapp.net"
+            remoteJid: "2347019135989@s.whatsapp.net"
         },
         message: {
             newsletterAdminInviteMessage: {
                 newsletterJid: "0@newsletter",
                 newsletterName: " X ",
-                caption: "CRYSNOVA BOT",
+                caption: "𝗖𝗢𝗗𝗘𝗫 BOT",
                 inviteExpiration: "0"
             }
         }
