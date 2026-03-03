@@ -1,7 +1,7 @@
 {
-  "name": "crysnova-ai-v2",
-  "version": "2.2.7",
-  "description": "CRYSNOVA AI V2 + CRYSNOVA V1 Connection",
+  "name": "𝗖𝗢𝗗𝗘𝗫 𝐀𝐈",
+  "version": "2.0.0",
+  "description": "𝗖𝗢𝗗𝗘𝗫 𝐀𝐈 V2 + CRYSNOVA V2 Connection",
   "main": "main.js",
   "type": "commonjs",
   "scripts": {
