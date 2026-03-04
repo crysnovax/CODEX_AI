@@ -70,8 +70,8 @@ const config = {
         packname: userConfig?.bot?.name || "𝗖𝗢𝗗𝗘𝗫",
         prefix: userConfig?.bot?.prefix || ".",
         description: "Professional WhatsApp Bot - 𝗖𝗢𝗗𝗘𝗫 𝐀𝐈 V2.0",
-        author: "https://github.com/CODEXAI999/CODEX-AI",
-        footer: "𝗖𝗢𝗗𝗘𝗫: @CODEXA1999",
+        author: "https://github.com/DEV-CODEXAI/CODEX-AI-V2",
+        footer: "𝗖𝗢𝗗𝗘𝗫: @DEV-CODEXAI",
 
         ownerJid: userConfig?.owner?.jid ||
                   `${defaultNumber}@s.whatsapp.net`,
