@@ -44,7 +44,7 @@ Follow along with the tutorial series: Each episode introduces 1–2 new command
 
 ## 👾 FORK CODEX-AI
     
-  <a href="https://github.com/crysnovax/CRYSNOVA_AI/fork"><img title="CRYSNOVA AI" src="https://img.shields.io/badge/FORK-CRYSNOVA AI-h?color=blue&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/DEV-CODEXAI/CODEX-AI-V2/fork"><img title="CODEX AI" src="https://img.shields.io/badge/FORK-CODEX AI-h?color=blue&style=for-the-badge&logo=stackshare"></a>
 
 ## 🧠 Editing Bot Files
 Need to tweak or customize? Download [MT Manager](https://t.me/crysnovax) for easy file management.
@@ -59,7 +59,7 @@ Need to tweak or customize? Download [MT Manager](https://t.me/crysnovax) for ea
 - **WhatsApp Channel**: [Official Channel](https://whatsapp.com/channel/0029Vb6sMEy96H4VI2w3I50F)
 
 ## 🚀 Getting Started
-1. Clone the repository: `git clone https://github.com/crysnovax/CRYSNOVA_AI`
+1. Clone the repository: `git clone https://github.com/DEV-CODEXAI/CODEX-AI-V2`
 2. Install dependencies: `npm install`
 3. Run the bot: `node index.js`
 4. Scan the QR code with WhatsApp to connect.
@@ -108,8 +108,8 @@ function c(text, color = 'white') {
 }
 
 // Configuration
-const PROJECT_DIR = 'CODEXAI';
-const REPO_URL = 'https://github.com/CODEXAI999/CODEXAI.git';
+const PROJECT_DIR = 'DEV-CODEXAI';
+const REPO_URL = 'https://github.com/DEV-CODEXAI/CODEX-AI-V2.git';
 const ENTRY_FILE = 'main.js';
 
 // Create readline interface
@@ -413,9 +413,9 @@ For detailed setup and command addition, check the tutorial videos!
 
 <div align="center">
   
-**© 2026 CRYSNOVA AI. Powered by CODEX AI. All rights reserved.**
+**© 2026 CODEX AI. Powered by CODEX AI. All rights reserved.**
 
-Made by crysnovax
+Made by codex
 
 ---
 
