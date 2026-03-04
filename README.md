@@ -1,4 +1,4 @@
-## ✦ CODEX AI V2.2.7
+x## ✦ CODEX AI V2.2.7
 
 
 <!-- CODEX WA BOT | Modern Profile README  -->
@@ -56,7 +56,7 @@ Need to tweak or customize? Download [MT Manager](https://t.me/crysnovax) for ea
 
 ## 📺 Connect & Learn
 - **YouTube Channel**: [CRYSNOVA](https://youtube.com/@crysnovax)
-- **WhatsApp Channel**: [Official Channel](https://whatsapp.com/channel/0029Vb6pe77K0IBn48HLKb38)
+- **WhatsApp Channel**: [Official Channel](https://whatsapp.com/channel/0029Vb6sMEy96H4VI2w3I50F)
 
 ## 🚀 Getting Started
 1. Clone the repository: `git clone https://github.com/crysnovax/CRYSNOVA_AI`
