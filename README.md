@@ -8,7 +8,7 @@
   <p align="center">
   <a href="https://github.com/crysnovax">
     <img 
-      src="https://i.imgur.com/HPLf1Qk.jpeg" 
+      src="https://files.catbox.moe/zke3bj.jpg" 
       alt="CRYSNOVA AI V2 - Holographic Neon Circle Logo" 
       width="380" 
       style="
