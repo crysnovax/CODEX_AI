@@ -4,9 +4,9 @@ x## ✦ CODEX AI V2.2.7
 <!-- CODEX WA BOT | Modern Profile README  -->
 
 <p align="center">
-  <img src="https://crysnovax-media-api.crysnovax.workers.dev/1771948318227-media" alt="CRYSNOVA X BOT" width="100%">
+  <img src="https://crysnovax-media-api.crysnovax.workers.dev/1771948318227-media" alt="CODEX BOT" width="100%">
   <p align="center">
-  <a href="https://github.com/crysnovax">
+  <a href="https://github.com/DEV-CODEX">
     <img 
       src="https://files.catbox.moe/zke3bj.jpg" 
       alt="CODEX AI V2 - Holographic Neon Circle Logo" 
