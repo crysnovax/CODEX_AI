@@ -1,7 +1,7 @@
-## ✦ CRYSNOVA AI V2.2.7
+## ✦ CODEX AI V2.2.7
 
 
-<!-- CRYSNOVA WA BOT | Modern Profile README  -->
+<!-- CODEX WA BOT | Modern Profile README  -->
 
 <p align="center">
   <img src="https://crysnovax-media-api.crysnovax.workers.dev/1771948318227-media" alt="CRYSNOVA X BOT" width="100%">
@@ -9,7 +9,7 @@
   <a href="https://github.com/crysnovax">
     <img 
       src="https://files.catbox.moe/zke3bj.jpg" 
-      alt="CRYSNOVA AI V2 - Holographic Neon Circle Logo" 
+      alt="CODEX AI V2 - Holographic Neon Circle Logo" 
       width="380" 
       style="
         border-radius: 50%;
@@ -24,13 +24,13 @@
 </p>
 
 <p align="center">
-  <strong>CRYSN⚉VA AI V2</strong><br>
-  <em>Professional WhatsApp Bot • Built by crysnova</em>
+  <strong>CODEX AI V2</strong><br>
+  <em>Professional WhatsApp Bot • Built by crysnovax</em>
 </p>
 A modular WhatsApp bot built using Node.js and Baileys — the perfect foundation for my YouTube tutorial series.  
-This is a More integrated version of CRYSNOVA AI V1.0 with Amazing Customizable features tagging along the much more established WhatsApp bot.
+This is a More integrated version of CODEX AI V1.0 with Amazing Customizable features tagging along the much more established WhatsApp bot.
 it's completely user friendly and requires less labor compared to V1.0 everything is now sorted for easy access and manipulation 
-> crysnovax
+> codex official 
 
 ## 💡 Key Features
 - **Dynamic Plugin System**: Simply add .js files for new commands — no complex setup required.
@@ -42,7 +42,7 @@ it's completely user friendly and requires less labor compared to V1.0 everythin
 
 Follow along with the tutorial series: Each episode introduces 1–2 new commands, building your skills step by step.
 
-## 👾 FORK CRYSNOVA-AI
+## 👾 FORK CODEX-AI
     
   <a href="https://github.com/crysnovax/CRYSNOVA_AI/fork"><img title="CRYSNOVA AI" src="https://img.shields.io/badge/FORK-CRYSNOVA AI-h?color=blue&style=for-the-badge&logo=stackshare"></a>
 
